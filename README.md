@@ -2,7 +2,7 @@
 
 CWL for SvABA. CWL has been validated but not tested.
 
-Run SvabaCall.cwl with expected inputs. 
+Run svabaCall_updated.cwl with expected inputs. 
 
 svaba-job.yml contains a sample script for all expected inputs. 
 
