@@ -16,7 +16,7 @@ svaba-job-paired.yml contains a sample script for testing.
  - *regionBED*: regions to run, BED file
  - *regionstring*: regions to run, Samtools-style string
  
-Additional optional inputs are included in the CWL and not described here. 
+Additional optional inputs used by SvABA are included in the CWL and not described here. 
  
 
 ### Expected outputs:
