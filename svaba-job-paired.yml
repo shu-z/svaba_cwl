@@ -1,0 +1,14 @@
+tumorBAM: 
+  class: File
+  path: /Users/shu/Desktop/svaba_cwl_desktop/G28034.MDA-MB-361.1.bam
+normalBAM:
+  class: File
+  path: /Users/shu/Desktop/svaba_cwl_desktop/G30630.VM-CUB1.3.bam
+reference: 
+  class: File
+  path: /Users/shu/Desktop/svaba_cwl_desktop/Homo_sapiens_assembly19.fasta
+sampleID: pairedtest_cwl
+threads: 2
+regionBAM:
+  class: File
+  path: /Users/shu/Desktop/svaba_cwl_desktop/regions4.bed
