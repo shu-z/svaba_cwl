@@ -3,7 +3,7 @@
 CWL for SvABA. Has been tested with WGS tumor-normal pairs and WGS tumor only case. 
 
 Run svabaCall_final.cwl with expected inputs. 
-svaba-job.yml contains a sample script for testing. 
+svaba-job-paired.yml contains a sample script for testing. 
 
 ### Required inputs:
   - *tumorBAM*: case BAM/CRAM/SAM file
